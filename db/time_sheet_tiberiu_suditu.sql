@@ -260,6 +260,81 @@ WHERE
 ORDER BY 
     d.nume, pozitie_salariu;
 
+
+CREATE TABLE Tema_Pontaj (
+    id_pontaj NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    id_angajat NUMBER NOT NULL,
+    data_pontaj DATE NOT NULL,
+    ore_lucrate NUMBER(4,2) CHECK (ore_lucrate BETWEEN 0 AND 24),
+    activitate VARCHAR2(100),
+    CONSTRAINT fk_pontaj_angajat FOREIGN KEY (id_angajat) REFERENCES Tema_Angajat(id_angajat)
+);
+
+-- Ana Popescu
+INSERT INTO Tema_Pontaj (id_angajat, data_pontaj, ore_lucrate, activitate)
+VALUES (1, DATE '2025-06-01', 8, 'Analyse Requirements');
+
+INSERT INTO Tema_Pontaj (id_angajat, data_pontaj, ore_lucrate, activitate)
+VALUES (1, DATE '2025-06-02', 6.5, 'Project Arhitecture');
+
+-- Mihai Ionescu
+INSERT INTO Tema_Pontaj (id_angajat, data_pontaj, ore_lucrate, activitate)
+VALUES (2, DATE '2025-06-01', 7, 'Code Enhancements');
+
+-- Elena Stoica
+INSERT INTO Tema_Pontaj (id_angajat, data_pontaj, ore_lucrate, activitate)
+VALUES (3, DATE '2025-06-01', 8, 'Application Testing');
+
+-- Alex Dima
+INSERT INTO Tema_Pontaj (id_angajat, data_pontaj, ore_lucrate, activitate)
+VALUES (4, DATE '2025-06-01', 5, 'Documentation');
+
+-- Ioana Marinescu
+INSERT INTO Tema_Pontaj (id_angajat, data_pontaj, ore_lucrate, activitate)
+VALUES (5, DATE '2025-06-01', 8, 'Client Support');
+
+
+-- Afisam totalul de ore lucrate de fiecare angajat
+SELECT 
+    a.nume,
+    SUM(p.ore_lucrate) AS total_ore
+FROM 
+    Tema_Pontaj p
+JOIN 
+    Tema_Angajat a ON a.id_angajat = p.id_angajat
+GROUP BY 
+    a.nume
+ORDER BY 
+    total_ore DESC;
+
+
+-- Afisam orele lucrate pe zi si rank-ul in functie de cine a lucrat cel mai mult intr-o zi
+SELECT 
+    a.nume,
+    p.data_pontaj,
+    p.ore_lucrate,
+    RANK() OVER (PARTITION BY p.data_pontaj ORDER BY p.ore_lucrate DESC) AS rank_zi
+FROM 
+    Tema_Pontaj p
+JOIN 
+    Tema_Angajat a ON a.id_angajat = p.id_angajat
+ORDER BY 
+    p.data_pontaj, rank_zi;
+
+
+-- Afisam toti angajatii, inclusiv cei care nu au pontaj (sunt LEFT JOIN)
+SELECT 
+    a.nume,
+    p.data_pontaj,
+    p.ore_lucrate,
+    p.activitate
+FROM 
+    Tema_Angajat a
+LEFT JOIN 
+    Tema_Pontaj p ON a.id_angajat = p.id_angajat
+ORDER BY 
+    a.nume, p.data_pontaj;
+
 -- COMMIT finalizeaza tranzactiile si salveaza modificarile permanent in baza de date
 -- Este folosit in special dupa operatii care MODIFICA datele:
 --    - INSERT (adaugare de date)
