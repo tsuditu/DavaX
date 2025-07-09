@@ -1,0 +1,51 @@
+ID_PONTAJ,ID_ANGAJAT,DATA_PONTAJ,ORE_LUCRATE,ACTIVITATE
+4000,82,22-Jun-2025,7.9,Performance Testing
+4001,66,23-Jun-2025,6.6,Design Meeting
+4002,133,23-Jun-2025,7.6,UI Mockups
+4003,121,22-Jun-2025,4.2,Deployment
+4004,96,28-Jun-2025,6.0,UI Mockups
+4005,214,25-Jun-2025,5.7,UI Mockups
+4006,90,27-Jun-2025,7.9,Documentation
+4007,3,22-Jun-2025,4.6,Performance Testing
+4008,72,27-Jun-2025,7.2,Performance Testing
+4009,23,23-Jun-2025,5.6,Documentation
+4010,87,22-Jun-2025,4.3,Bug Fixing
+4011,113,24-Jun-2025,4.6,Design Meeting
+4012,203,24-Jun-2025,5.4,Scrum Planning
+4013,4,25-Jun-2025,6.1,Deployment
+4014,113,22-Jun-2025,7.6,Performance Testing
+4015,94,22-Jun-2025,5.5,UI Mockups
+4016,67,24-Jun-2025,4.5,Client Call
+4017,26,26-Jun-2025,5.0,Client Call
+4018,125,24-Jun-2025,4.5,UI Mockups
+4019,20,28-Jun-2025,4.3,UI Mockups
+4020,91,25-Jun-2025,5.7,Documentation
+4021,115,23-Jun-2025,4.9,Design Meeting
+4022,232,23-Jun-2025,4.8,Code Review
+4023,84,24-Jun-2025,4.1,Client Call
+4024,179,24-Jun-2025,4.8,Code Review
+4025,212,27-Jun-2025,4.8,Scrum Planning
+4026,57,24-Jun-2025,5.3,Design Meeting
+4027,61,26-Jun-2025,5.7,Client Call
+4028,128,22-Jun-2025,5.4,Design Meeting
+4029,168,22-Jun-2025,5.5,Client Call
+4030,146,26-Jun-2025,4.0,Documentation
+4031,28,28-Jun-2025,5.1,UI Mockups
+4032,134,24-Jun-2025,7.6,Scrum Planning
+4033,97,24-Jun-2025,6.6,Bug Fixing
+4034,199,27-Jun-2025,4.5,Deployment
+4035,227,28-Jun-2025,4.8,Unit Testing
+4036,32,24-Jun-2025,6.6,Bug Fixing
+4037,53,27-Jun-2025,5.5,Scrum Planning
+4038,67,27-Jun-2025,5.1,Scrum Planning
+4039,14,25-Jun-2025,5.4,Design Meeting
+4040,120,22-Jun-2025,4.4,Documentation
+4041,23,27-Jun-2025,6.4,Unit Testing
+4042,220,22-Jun-2025,5.4,Design Meeting
+4043,69,23-Jun-2025,4.1,Deployment
+4044,71,26-Jun-2025,4.3,UI Mockups
+4045,173,23-Jun-2025,4.6,Scrum Planning
+4046,45,24-Jun-2025,7.4,UI Mockups
+4047,142,24-Jun-2025,6.2,Code Review
+4048,185,23-Jun-2025,4.1,Code Review
+4049,137,28-Jun-2025,6.3,Documentation

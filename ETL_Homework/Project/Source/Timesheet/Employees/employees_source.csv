@@ -1,0 +1,224 @@
+ID_ANGAJAT,NUME,EMAIL,SALARIU,GEN,ID_DEPARTAMENT,functie,data_angajare,status
+1,Ioana Alexa,ioana.alexa@endava.com,6577,Feminin,10,Tester,09-Aug-2022,inactiv
+2,Virgil Cimpean,virgil.cimpean@endava.com,6970,Masculin,60,Data Engineer,16-May-2020,activ
+3,Calin Ciobanu,calin.ciobanu@endava.com,7456,Masculin,50,Consultant,26-Dec-2022,inactiv
+4,Stefan Daniel Ionita,stefandaniel.ionita@endava.com,6388,Masculin,60,Tester,09-Nov-2020,inactiv
+5,Alexandru Burlica,alexandru.burlica@endava.com,4327,Masculin,20,Analyst,16-May-2023,inactiv
+6,Luka Popovici,luka.popovici@endava.com,4848,Feminin,40,Tester,05-May-2023,inactiv
+7,Cosmin-Nicusor Brumariu,cosmin-nicusor.brumariu@endava.com,6622,Masculin,60,Data Engineer,30-Dec-2021,inactiv
+8,Mihai-Alexandru Birziloiu,mihai-alexandru.birziloiu@endava.com,5135,Masculin,60,Consultant,13-Mar-2021,activ
+9,Gabriela-Sidonia Ciontolac,gabriela-sidonia.ciontolac@endava.com,5622,Feminin,20,Data Engineer,25-Nov-2020,activ
+10,Denis Roca,denis.roca@endava.com,5980,Masculin,70,Analyst,15-Apr-2020,inactiv
+11,Andrei Andries,andrei.andries@endava.com,7142,Masculin,20,Tester,25-May-2020,activ
+12,Stefan Gabriel Verde,stefan-gabriel.verde@endava.com,5184,Masculin,10,Tester,16-Apr-2023,inactiv
+13,Adina Denisa Horj,adina-denisa.horj@endava.com,5878,Feminin,70,Consultant,02-Jul-2022,inactiv
+14,Rafael Ionut Stefanache,rafael-ionut.stefanache@endava.com,4770,Masculin,70,Tester,02-Jul-2020,activ
+15,Alin Avram,alin.avram@endava.com,4768,Masculin,70,Tester,29-May-2020,activ
+16,Ioan Agape,ioan.agape@endava.com,4559,Masculin,40,Analyst,04-May-2023,inactiv
+17,Daria Craciun,daria.craciun@endava.com,6453,Feminin,60,Tester,02-Jan-2023,activ
+18,Constantin Voicu,constantin.voicu@endava.com,3928,Masculin,50,Developer,27-Jun-2021,inactiv
+19,Rita Timea Torok,rita-timea.torok@endava.com,6319,Feminin,40,Tester,23-Nov-2021,inactiv
+20,Luisa Yi Qing Yang,luisa-yi-qing.yang@endava.com,5795,Feminin,40,Tester,01-Feb-2020,activ
+21,Reka Katalin Darko,reka-katalin.darko@endava.com,5497,Feminin,60,Tester,15-Jun-2023,activ
+22,Cristian Valentin Alexa,cristian-valentin.alexa@endava.com,7300,Masculin,60,Tester,26-Nov-2021,inactiv
+23,Alexandra Elena Pitaru,alexandra-elena.pitaru@endava.com,6452,Feminin,60,Consultant,06-Aug-2020,inactiv
+24,Dragos Maxim,dragos.maxim@endava.com,6111,Masculin,60,Developer,19-Oct-2021,activ
+25,Denisa Maria Gorea,denisa-maria.gorea@endava.com,3616,Feminin,20,Developer,21-Jan-2022,activ
+26,Adelina Patlatii,adelina.patlatii@endava.com,5455,Feminin,70,Data Engineer,09-Jul-2022,activ
+27,Serban Marian Precup,serban-marian.precup@endava.com,6978,Masculin,10,Analyst,30-Nov-2020,activ
+28,Andrei Tudor Grumazescu,andrei-tudor.grumazescu@endava.com,7150,Masculin,30,Data Engineer,19-Oct-2020,activ
+29,David Postolea,david.postolea@endava.com,7282,Masculin,50,Developer,18-Jul-2020,inactiv
+30,Alessia-Elena Rados,alessia-elena.rados@endava.com,5464,Feminin,30,Developer,24-Dec-2021,activ
+31,Mihnea Daniel Popescu,mihnea-daniel.popescu@endava.com,7002,Feminin,60,Analyst,19-Apr-2020,activ
+32,Manuel Lazar,manuel.lazar@endava.com,7273,Masculin,60,Tester,21-Jun-2021,inactiv
+33,Adrian Vasile Vladescu,adrian-vasile.vladescu@endava.com,3854,Masculin,60,Tester,25-May-2022,activ
+34,Darius-Cristian Gherle,darius-cristian.gherle@endava.com,4981,Masculin,70,Analyst,14-Sep-2021,inactiv
+35,Andrei L Popovici,andrei.popovici2@endava.com,3589,Masculin,30,Consultant,12-Mar-2023,activ
+36,Huba Nemet,huba.nemet@endava.com,4236,Feminin,30,Developer,01-Dec-2020,inactiv
+37,Maria Madalina Olaru,maria-madalina.olaru@endava.com,7073,Feminin,10,Consultant,07-Aug-2022,activ
+38,Gheorghe-Cristian Terovan,gheorghe-cristian.terovan@endava.com,6965,Masculin,60,Data Engineer,28-Jan-2021,inactiv
+39,Alexandru Munteanu,alexandru.munteanu@endava.com,4053,Masculin,50,Developer,28-Nov-2020,inactiv
+40,Teodora Maximiuc,teodora.maximiuc@endava.com,4031,Feminin,40,Tester,27-Apr-2022,inactiv
+41,Andreea Cront,andreea.cront@endava.com,5199,Feminin,50,Consultant,03-May-2023,inactiv
+42,Vlad Ioan Durdeu,vlad-ioan.durdeu@endava.com,6896,Masculin,60,Analyst,03-Feb-2021,inactiv
+43,Alexandru Bardasu,alexandru.bardasu@endava.com,5301,Masculin,50,Developer,31-Jul-2021,activ
+44,Alexandru Mihai Matei,alexandru-mihai.matei@endava.com,6547,Masculin,30,Data Engineer,06-Jul-2020,activ
+45,Iuliana Raluca Butnariu,iuliana-raluca.butnariu@endava.com,7224,Feminin,40,Tester,08-Dec-2022,inactiv
+46,Ioana Marc,ioana.marc2@endava.com,5558,Feminin,30,Tester,09-Mar-2022,inactiv
+47,Bianca Popescu,bianca.popescu@endava.com,4443,Feminin,60,Analyst,25-Oct-2021,inactiv
+48,Gabriela Casandra Pitu,gabriela-casandra.pitu@endava.com,4011,Feminin,20,Data Engineer,12-Jun-2021,inactiv
+49,Ariana Casandra Olaru,ariana-casandra.olaru@endava.com,7020,Feminin,20,Data Engineer,24-Jul-2022,activ
+50,George Eduard Achiriloaei,george-eduard.achiriloaei@endava.com,5064,Feminin,30,Tester,30-Jun-2022,inactiv
+51,Tudor Gabriel Pascaru,tudor-gabriel.pascaru@endava.com,6215,Masculin,20,Developer,04-Jan-2020,activ
+52,Victor Valentin Vladulescu,victor-valentin.vladulescu@endava.com,6583,Masculin,70,Developer,27-Nov-2020,activ
+53,Andrei Alin Socoteala,andrei-alin.socoteala@endava.com,4789,Masculin,50,Tester,08-Nov-2020,inactiv
+54,Mihai Alexandru Ionel,mihai-alexandru.ionel@endava.com,4609,Masculin,20,Consultant,24-Apr-2020,inactiv
+55,Radu Ioan Maris,radu-ioan.maris@endava.com,5878,Masculin,40,Analyst,21-Jul-2020,activ
+56,Vlad Ionut Guriuc,vlad-ionut.guriuc@endava.com,7274,Masculin,30,Consultant,09-Jul-2021,inactiv
+57,Maria Iulia Zdrenghea,maria-iulia.zdrenghea@endava.com,5538,Feminin,30,Tester,26-Jul-2022,activ
+58,Andreea Gabriela Pop,andreea-gabriela.pop@endava.com,4735,Feminin,60,Analyst,26-Nov-2022,activ
+59,Beniamin Cioban,beniamin.cioban@endava.com,4113,Masculin,20,Developer,19-May-2021,inactiv
+60,Andrei Bogdan Aluculesei,andrei-bogdan.aluculesei@endava.com,3774,Masculin,50,Consultant,09-Dec-2020,inactiv
+61,Vlad Baranceanu,vlad.baranceanu@endava.com,5034,Masculin,20,Data Engineer,15-Feb-2021,inactiv
+62,Nicolae Vasile Veciunca,nicolae-vasile.veciunca@endava.com,5106,Feminin,30,Analyst,07-Mar-2021,activ
+63,Matei Micu,matei-mihai.micu@endava.com,5277,Masculin,40,Consultant,04-Dec-2022,activ
+64,Vlad Marian Pitariu,vlad-marian.pitariu@endava.com,4471,Masculin,50,Tester,26-Jan-2022,inactiv
+65,Cristiana Ioana Apastinei,cristiana-ioana.apastinei@endava.com,3658,Feminin,70,Analyst,10-Jul-2022,inactiv
+66,Alexandru Baba,alexandru.baba@endava.com,6208,Masculin,20,Developer,08-Jul-2020,activ
+67,Costina Vanghele,costina.vanghele@endava.com,4889,Feminin,40,Analyst,17-Jan-2022,inactiv
+68,Mozes Csaszar,mozes.csaszar@endava.com,4040,Masculin,40,Data Engineer,30-Jun-2022,inactiv
+69,Zoltan Balint,zoltan.balint2@endava.com,5131,Masculin,70,Developer,07-Mar-2022,inactiv
+70,Alexandru Dumitru Ionita,alex.ionita@endava.com,5950,Masculin,60,Data Engineer,13-Jun-2021,activ
+71,Anca Vasilica Iacob,anca-vasilica.iacob@endava.com,4971,Feminin,40,Developer,27-Feb-2022,inactiv
+72,Tudor Mihai Iakkel,tudor-mihai.iakkel@endava.com,5837,Masculin,70,Developer,30-Sep-2021,activ
+73,Mihaly Richard Teutsch,mihaly-richard.teutsch@endava.com,5261,Masculin,30,Analyst,02-Oct-2021,activ
+74,Iasmina Pagu,iasmina-andra.pagu@endava.com,3748,Feminin,40,Developer,03-May-2020,inactiv
+75,Alex Rares Roman,alex-rares.roman@endava.com,4005,Masculin,10,Tester,03-Jun-2023,activ
+76,Vlad Badulescu,vlad.badulescu@endava.com,4820,Masculin,50,Developer,15-Dec-2022,activ
+77,Emanuel Luculescu,emanuel.luculescu@endava.com,4354,Masculin,30,Consultant,15-Feb-2020,activ
+78,Madalina Daiana Gligan,madalina-daiana.gligan@endava.com,4378,Feminin,10,Analyst,07-Jul-2022,activ
+79,Vlad Cojocaru,vlad.cojocaru@endava.com,6029,Masculin,70,Analyst,28-Jun-2022,inactiv
+80,George Nicolae Botos,george-nicolae.botos@endava.com,4201,Feminin,70,Consultant,25-Mar-2022,inactiv
+81,Cezara Teofana Aprofirei,cezara-teofana.aprofirei@endava.com,6722,Feminin,70,Analyst,21-Jun-2021,activ
+82,Bianca Anamaria Chiorean,bianca-anamaria.chiorean@endava.com,5308,Feminin,60,Data Engineer,14-Jun-2023,inactiv
+83,Ionut Popescu,ionut.popescu@endava.com,6666,Masculin,30,Analyst,21-Dec-2020,activ
+84,Denisa Ibanescu,denisa.ibanescu@endava.com,5247,Feminin,50,Consultant,03-Apr-2023,activ
+85,Iulia Olivia Cipleu,iulia-olivia.cipleu@endava.com,4413,Feminin,30,Developer,23-Jun-2020,activ
+86,David Serban,david.serban@endava.com,6665,Masculin,50,Data Engineer,13-Aug-2021,inactiv
+87,Felix Cosmin Orga,felix-cosmin.orga@endava.com,6635,Masculin,50,Consultant,11-Jul-2023,inactiv
+88,Mariana Ionela Muntian,mariana-ionela.muntian@endava.com,6726,Feminin,10,Analyst,19-Dec-2022,activ
+89,Ruben Daniel Pasca,ruben-daniel.pasca@endava.com,5153,Masculin,40,Developer,23-May-2020,activ
+90,Alexandru Toma,alexandru.toma@endava.com,7202,Masculin,30,Consultant,06-Dec-2020,inactiv
+91,Augustin Dumitru Sasu,augustin-dumitru.sasu@endava.com,5275,Masculin,70,Tester,17-Apr-2020,activ
+92,Mihai Negrea,mihai.negrea@endava.com,6530,Masculin,10,Analyst,28-Apr-2023,inactiv
+93,Ionut Vlad Cira,ionut-vlad.cira@endava.com,4821,Masculin,30,Consultant,26-May-2021,activ
+94,Alexandru Marian Armanu,alexandru-marian.armanu@endava.com,7033,Masculin,70,Consultant,19-Sep-2020,inactiv
+95,Luigi Emanuel Arama,luigi-emanuel.arama@endava.com,7233,Masculin,10,Developer,26-Mar-2023,activ
+96,Sebastian Popa,sebastian.popa2@endava.com,6716,Masculin,40,Data Engineer,26-Jan-2023,activ
+97,Florina Eugenia Hategan,florina---eugenia.hategan@endava.com,5155,Feminin,60,Data Engineer,17-Mar-2020,activ
+98,Andrei Titus Pavel,andrei-titus.pavel@endava.com,6700,Masculin,40,Developer,14-Jan-2021,activ
+99,Darius Dinu,darius.dinu@endava.com,6681,Masculin,50,Developer,08-Sep-2020,activ
+100,Rares Dascalu,rares.dascalu@endava.com,7379,Masculin,60,Data Engineer,20-May-2020,activ
+101,Arthur Negosanu,arthur.negosanu@endava.com,6238,Masculin,20,Tester,24-Sep-2021,inactiv
+102,Sabin Chirila,sabin.chirila@endava.com,5296,Masculin,60,Analyst,22-Mar-2021,inactiv
+103,Sorin Cristian Miron,sorin-cristian.miron@endava.com,3840,Masculin,40,Consultant,12-Oct-2021,inactiv
+104,Gabriel Alexandru Nedelcu,gabriel-alexandru.nedelcu@endava.com,5674,Masculin,20,Data Engineer,03-Apr-2020,activ
+105,Octavian Paul Ilies,octavian-paul.ilies@endava.com,4143,Masculin,10,Developer,01-Jul-2021,inactiv
+106,Camelia Stoica,camelia.stoica@endava.com,6165,Feminin,30,Consultant,21-Jan-2022,activ
+107,Madalina Puia,madalina.puia@endava.com,4621,Feminin,10,Tester,04-Dec-2022,inactiv
+108,Liviu Istrate,liviu.istrate2@endava.com,6589,Masculin,50,Developer,29-Apr-2023,activ
+109,Alexandru Zagan,alexandru.zagan@endava.com,5105,Masculin,40,Analyst,02-Jul-2022,inactiv
+110,Lucian Vatamanu,lucian.vatamanu@endava.com,4641,Masculin,60,Analyst,01-May-2020,inactiv
+111,Vlad Muresan,vlad.muresan3@endava.com,6642,Masculin,10,Developer,09-Dec-2022,inactiv
+112,Vlad Cristian Brinzas,vlad-cristian.brinzas@endava.com,6179,Masculin,40,Tester,04-Feb-2020,inactiv
+113,Robert-Cosmin Tudorache,robert-cosmin.tudorache@endava.com,6172,Masculin,60,Data Engineer,20-Apr-2022,activ
+114,Irina Vasilita,irina.vasilita@endava.com,5685,Feminin,20,Developer,20-Sep-2022,inactiv
+115,Raluca Roiban,raluca.roiban@endava.com,6975,Feminin,40,Tester,05-Jan-2020,inactiv
+116,Teodor Badarcea,teodor.badarcea@endava.com,5610,Masculin,50,Tester,16-Apr-2020,inactiv
+117,Filip Craciun,filip.craciun@endava.com,6227,Masculin,20,Consultant,26-May-2023,inactiv
+118,Andrei Margelatu,andrei.margelatu@endava.com,5861,Masculin,40,Analyst,28-Mar-2020,activ
+119,Anton Calin Stroia,anton-calin.stroia@endava.com,5713,Masculin,70,Consultant,01-Nov-2022,activ
+120,Madalina Birtu,madalina.birtu@endava.com,5921,Feminin,20,Developer,18-Aug-2020,activ
+121,Daniel-Ionel Beg,daniel-ionel.beg@endava.com,5494,Masculin,30,Consultant,21-Jan-2022,activ
+122,Iustin-Mihai Stanciu,iustin-mihai.stanciu@endava.com,4079,Masculin,50,Consultant,16-Sep-2021,activ
+123,Gabriel Firisar,gabriel.firisar@endava.com,5722,Masculin,60,Developer,24-Feb-2021,inactiv
+124,Maria-Ioana Fuerea,maria-ioana.fuerea@endava.com,5386,Feminin,60,Analyst,18-Mar-2022,inactiv
+125,Stefan Tiberiu Paduraru,stefan-tiberiu.paduraru@endava.com,3707,Masculin,10,Developer,03-Sep-2021,inactiv
+126,Iuliana Elena Rusu,iuliana-elena.rusu@endava.com,3586,Feminin,60,Developer,02-Feb-2023,activ
+127,Daniel Kewin Chifa,daniel-kewin.chifa@endava.com,4004,Masculin,10,Data Engineer,23-Feb-2022,activ
+128,Stefan Liute,stefan.liute@endava.com,6221,Masculin,70,Data Engineer,15-Jun-2023,inactiv
+129,Maria Mihaela Bradea,maria-mihaela.bradea@endava.com,7011,Feminin,30,Developer,13-Mar-2023,inactiv
+130,Mihnea Amihailesei,mihnea.amihailesei@endava.com,5676,Feminin,60,Analyst,01-Nov-2022,activ
+131,Patric Caliman,patric.caliman@endava.com,4305,Masculin,60,Analyst,16-Jan-2022,inactiv
+132,Daria Lupu Dima,daria.lupu@endava.com,4672,Feminin,70,Data Engineer,06-May-2021,activ
+133,Razvan Azoitei,razvan.azoitei@endava.com,6657,Masculin,10,Data Engineer,07-Dec-2020,inactiv
+134,Tudor Leonte,tudor.leonte@endava.com,4020,Masculin,60,Developer,31-Dec-2022,activ
+135,Botond Ors Solyom,botond-ors.solyom@endava.com,3944,Masculin,40,Developer,27-May-2020,activ
+136,Irina Morosanu,irina.morosanu@endava.com,4683,Feminin,30,Developer,17-Oct-2021,activ
+137,Costin Manolescu,costin.manolescu@endava.com,4542,Masculin,60,Analyst,07-Jun-2020,activ
+138,Ioana Alexia Popa,ioana-alexia.popa@endava.com,6189,Feminin,60,Data Engineer,05-Feb-2022,inactiv
+139,Silviu Vasilica Luta,silviu-vasilica.luta@endava.com,4065,Masculin,60,Developer,22-Feb-2022,inactiv
+140,Fabian Iordache,fabian.iordache@endava.com,4994,Masculin,10,Analyst,25-Apr-2020,inactiv
+141,Petru Adelin Cojocaru,petru-adelin.cojocaru@endava.com,7252,Masculin,50,Analyst,12-Jun-2022,activ
+142,Dan Teodor Buzoianu,dan-teodor.buzoianu@endava.com,5993,Masculin,30,Tester,03-Jan-2022,inactiv
+143,Alexandru Catrinescu,alexandru.catrinescu@endava.com,4659,Masculin,60,Analyst,31-Aug-2021,inactiv
+144,Alina Trincu,alina.trincu@endava.com,4836,Feminin,70,Developer,01-Jan-2023,inactiv
+145,Andrei Octavian Minca,andrei-octavian.minca@endava.com,4720,Masculin,60,Tester,18-Jan-2021,activ
+146,Mihnea-Alexandru Pele,mihnea-alexandru.pele@endava.com,6055,Masculin,30,Tester,13-Dec-2020,inactiv
+147,George Andrei Necula,george-andrei.necula@endava.com,5299,Feminin,60,Developer,13-Feb-2022,inactiv
+148,Alexandru Zosin,alexandru.zosin@endava.com,5691,Masculin,70,Tester,24-Feb-2023,activ
+149,Emma Simina Muresan,emma-simina.muresan@endava.com,7229,Feminin,60,Developer,02-Nov-2021,inactiv
+150,Stefan-Claudiu Bulintis,stefan-claudiu.bulintis@endava.com,4899,Masculin,40,Consultant,12-Mar-2021,inactiv
+151,Vlad-Stefan Sas,vlad-stefan.sas@endava.com,3986,Masculin,40,Analyst,22-Nov-2022,activ
+152,Alexandru Lazar,alexandru.lazar@endava.com,4684,Masculin,60,Developer,16-Jan-2021,inactiv
+153,Catalin Festeu,catalin.festeu@endava.com,4004,Masculin,60,Analyst,06-Sep-2020,inactiv
+154,Celia Ciurchil-Giurgiu,celia.ciurchil@endava.com,7158,Feminin,60,Data Engineer,25-Feb-2023,inactiv
+155,Ionut Birsan,ionut.birsan@endava.com,3640,Masculin,40,Tester,15-Apr-2021,activ
+156,Andrei George Avram,andrei-george.avram@endava.com,4280,Masculin,30,Analyst,12-May-2023,inactiv
+157,Alexandru Cristian Grajdeanu,alexandru-cristian.grajdeanu@endava.com,6834,Masculin,10,Analyst,05-Jul-2022,inactiv
+158,Csilla Boglarka Nagy,csilla-boglarka.nagy@endava.com,4515,Feminin,30,Consultant,06-May-2023,activ
+159,Andreea Grecu,andreea.grecu2@endava.com,5608,Feminin,10,Data Engineer,25-Feb-2023,inactiv
+160,Razvan Dumitru,razvan.dumitru@endava.com,5370,Masculin,20,Tester,09-Dec-2020,inactiv
+161,Laurentiu Fratila,laurentiu.fratila@endava.com,6042,Masculin,10,Analyst,19-Jun-2020,activ
+162,Carmen-Gabriela Nadragea,carmen-gabriela.nadragea@endava.com,6068,Feminin,30,Tester,12-Sep-2021,inactiv
+163,Gabriela Miruna Stan,gabriela-miruna.stan@endava.com,5854,Feminin,10,Consultant,17-Sep-2022,activ
+164,Daniel Rotaru,daniel.rotaru@endava.com,6431,Masculin,50,Analyst,08-Jan-2023,activ
+165,Timotei Cristian Morar,timotei-cristian.morar@endava.com,5054,Masculin,50,Tester,26-Feb-2023,inactiv
+166,Alice Tache,alice.tache@endava.com,5136,Feminin,50,Consultant,26-Jun-2021,activ
+167,Razvan Niculae,razvan.niculae@endava.com,5450,Masculin,40,Data Engineer,30-Jun-2020,inactiv
+168,Andrei Apostol,andrei.apostol@endava.com,5436,Masculin,40,Consultant,29-Nov-2020,inactiv
+169,Stefan Stescu,stefan.stescu@endava.com,5430,Masculin,20,Data Engineer,18-Jun-2020,activ
+170,Ferdinand Alexandru Cabat,ferdinand-alexandru.cabat@endava.com,3790,Masculin,40,Consultant,12-Mar-2020,activ
+171,Rares Stefan Cazan,rares-stefan.cazan@endava.com,6567,Masculin,30,Analyst,01-Jun-2020,inactiv
+172,Sergiu Ungureanu,sergiu.ungureanu2@endava.com,3795,Masculin,50,Developer,17-Sep-2022,activ
+173,Nicola-Diana Sincaru,nicola-diana.sincaru@endava.com,7089,Feminin,30,Developer,21-Sep-2020,activ
+174,Bogdan Gargu,bogdan.gargu@endava.com,5683,Masculin,30,Analyst,21-Dec-2021,inactiv
+175,Vasile Meghesan,vasile.meghesan@endava.com,5729,Feminin,20,Consultant,29-Feb-2020,activ
+176,Alexandru Mirea,alexandru.mirea@endava.com,5498,Masculin,50,Tester,03-Dec-2020,inactiv
+177,Denisa Elena Stolniceanu,denisa-elena.stolniceanu@endava.com,4783,Feminin,20,Data Engineer,11-Oct-2020,activ
+178,Aron Domokos Telegdy,aron.telegdy@endava.com,6740,Masculin,70,Data Engineer,26-Apr-2023,activ
+179,Ilinca Maria Popovici,ilinca-maria.popovici@endava.com,7312,Feminin,20,Developer,29-Aug-2021,inactiv
+180,Alexandru Gabriel Cazan,alexandru.cazan@endava.com,4866,Masculin,30,Tester,01-Oct-2022,inactiv
+181,Ioana Victoria Zinveliu,ioana-victoria.zinveliu@endava.com,5751,Feminin,50,Analyst,19-Feb-2020,activ
+182,Radu Nicolae,radu-mihai.nicoale@endava.com,3620,Masculin,40,Developer,05-Nov-2021,inactiv
+183,Laura Andrada Ciobanu,laura-andrada.ciobanu@endava.com,5804,Feminin,20,Consultant,01-Mar-2020,activ
+184,George Patrasc,george.patrasc@endava.com,6264,Feminin,40,Tester,10-Feb-2020,activ
+185,Silviu Mihail Pavel,silviu-mihail.pavel@endava.com,4338,Masculin,60,Developer,23-Mar-2022,activ
+186,Alexandru Pestritu,alexandru.pestritu@endava.com,5824,Masculin,10,Consultant,24-Apr-2021,inactiv
+187,Raul Mihai Rusu,raul-mihai.rusu@endava.com,6433,Masculin,40,Tester,29-Jul-2020,inactiv
+188,Andrada Maria Tinta,andrada-maria.tinta@endava.com,5360,Feminin,70,Analyst,06-Jun-2021,activ
+189,Mihnea Sebastian Ilie Encean,mihnea-sebastian-ilie.encean@endava.com,3708,Feminin,50,Consultant,25-Apr-2022,inactiv
+190,Andrei-Alexandru Midus,andrei-alexandru.midus@endava.com,4931,Masculin,10,Consultant,11-Jun-2022,activ
+191,Alexandru Edves,alexandru.edves@endava.com,5550,Masculin,10,Tester,06-Nov-2021,inactiv
+192,Bogdan Nicolae Cotta,bogdan-nicolae.cotta@endava.com,5732,Masculin,60,Analyst,15-Jun-2021,inactiv
+193,Stefan Cotos,stefan.cotos@endava.com,5630,Masculin,50,Consultant,18-Jul-2023,inactiv
+194,Marcos Dimitris Fetcu,marcos-dimitris.fetcu@endava.com,6608,Masculin,10,Developer,10-Aug-2020,inactiv
+195,Oana-Maria Danciu,oana-maria.danciu@endava.com,4587,Feminin,50,Tester,19-Jul-2022,inactiv
+196,Alexandru Duta,alexandru.duta2@endava.com,6933,Masculin,30,Consultant,28-Mar-2022,inactiv
+197,Cornelia Cojocari,cornelia.cojocari@endava.com,7366,Feminin,50,Tester,31-Jan-2023,inactiv
+198,Lavinia Avram,lavinia.avram@endava.com,6097,Feminin,60,Analyst,09-Aug-2021,activ
+199,Rares Alexandru Iancu,rares-alexandru.iancu@endava.com,5173,Masculin,70,Analyst,08-Aug-2020,activ
+200,Andreea Cacenschi,andreea.cacenschi@endava.com,5255,Feminin,10,Data Engineer,12-Jun-2020,inactiv
+201,Rares Muresan,rares.muresan@endava.com,4506,Masculin,60,Developer,02-Aug-2022,inactiv
+202,Denis-Mihai Mateas,denis-mihai.mateas@endava.com,6207,Masculin,30,Developer,03-Jul-2021,activ
+203,Rafael Andries,rafael.andries@endava.com,6259,Masculin,60,Analyst,27-Jan-2022,inactiv
+204,Armin Andrei Chanchian,armin-andrei.chanchian@endava.com,6660,Masculin,10,Tester,17-Feb-2022,inactiv
+205,Theodor Cristian Gheorghe,theodor-cristian.gheorghe@endava.com,5351,Masculin,60,Developer,15-Jun-2020,activ
+206,Mihai Alexandru Militaru,mihai-alexandru.militaru@endava.com,7489,Masculin,70,Developer,06-Feb-2021,activ
+207,Andrei Mihnea,andrei.mihnea@endava.com,5278,Masculin,20,Developer,24-Nov-2021,activ
+208,Octavian Cojocariu,octavian.cojocariu@endava.com,5516,Masculin,50,Tester,03-Mar-2022,inactiv
+209,Cosmin Adrian Neamtiu,cosmin-adrian.neamtiu@endava.com,5495,Masculin,10,Consultant,29-Jan-2020,activ
+210,Paul Valentin Vela,paul-valentin.vela@endava.com,5460,Masculin,50,Consultant,14-Aug-2020,inactiv
+211,Cerasela Nicola Soare,cerasela-nicola.soare@endava.com,3684,Feminin,70,Consultant,25-May-2022,activ
+212,Stefania Diana Stirbu,stefania-diana.stirbu@endava.com,7317,Feminin,30,Tester,12-Nov-2022,inactiv
+213,Cosmin Chirazi,cosmin.chirazi@endava.com,4342,Masculin,40,Data Engineer,22-Feb-2021,activ
+214,Daniela Munteanu,daniela.munteanu@endava.com,7085,Feminin,40,Consultant,22-Apr-2021,activ
+215,Andrei Tudor Mirza,andrei-tudor.mirza@endava.com,4047,Masculin,20,Consultant,25-Aug-2020,activ
+216,Robert Negre,robert.negre@endava.com,6367,Masculin,40,Analyst,28-May-2020,inactiv
+217,Robert-Viorel Lazarov,robert-viorel.lazarov@endava.com,6874,Masculin,60,Analyst,01-Mar-2023,activ
+218,Adrian Matean,adrian.matean@endava.com,4472,Masculin,50,Tester,25-Jul-2022,inactiv
+219,Robert Cristian,robert.cristian@endava.com,6476,Masculin,40,Tester,30-Jan-2021,activ
+220,Adriana Maria Vadean,adriana-maria.vadean@endava.com,5526,Feminin,70,Analyst,29-Dec-2022,activ
+221,Diandra Fechita,diandra.fechita@endava.com,4809,Feminin,20,Data Engineer,21-Oct-2020,activ
+222,Tudor Mihai,tudor.mihai@endava.com,7190,Masculin,50,Developer,29-Apr-2023,activ
+223,Florin Nita,florin.nita@endava.com,6019,Masculin,70,Tester,29-Mar-2023,inactiv

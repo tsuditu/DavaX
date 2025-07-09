@@ -1,0 +1,631 @@
+id_angajat,nume_complet,data_start,data_sfarsit,zile,motiv
+1,Ioana Alexa,2025-05-03,2025-05-04,2,zi libera
+1,Ioana Alexa,2025-06-12,2025-06-14,3,zi libera
+1,Ioana Alexa,2025-07-23,2025-07-25,3,medical
+2,Virgil Cimpean,2025-06-10,2025-06-12,3,delegatie
+3,Calin Ciobanu,2025-06-05,2025-06-06,2,medical
+3,Calin Ciobanu,2025-05-14,2025-05-14,1,delegatie
+4,Stefan Daniel Ionita,2025-06-27,2025-06-28,2,concediu odihna
+4,Stefan Daniel Ionita,2025-06-23,2025-06-25,3,zi libera
+5,Alexandru Burlica,2025-06-13,2025-06-14,2,concediu odihna
+6,Luka Popovici,2025-06-06,2025-06-06,1,concediu odihna
+6,Luka Popovici,2025-05-16,2025-05-16,1,medical
+6,Luka Popovici,2025-05-12,2025-05-13,2,concediu odihna
+7,Cosmin-Nicusor Brumariu,2025-07-16,2025-07-17,2,medical
+7,Cosmin-Nicusor Brumariu,2025-05-03,2025-05-05,3,delegatie
+8,Mihai-Alexandru Birziloiu,2025-06-19,2025-06-20,2,delegatie
+9,Gabriela-Sidonia Ciontolac,2025-07-27,2025-07-27,1,concediu odihna
+10,Denis Roca,2025-07-06,2025-07-06,1,zi libera
+11,Andrei Andries,2025-06-09,2025-06-10,2,zi libera
+12,Stefan Gabriel Verde,2025-07-02,2025-07-03,2,zi libera
+13,Adina Denisa Horj,2025-06-25,2025-06-26,2,zi libera
+14,Rafael Ionut Stefanache,2025-07-05,2025-07-07,3,delegatie
+15,Alin Avram,2025-06-16,2025-06-18,3,medical
+16,Ioan Agape,2025-06-18,2025-06-20,3,delegatie
+16,Ioan Agape,2025-05-19,2025-05-20,2,zi libera
+17,Daria Craciun,2025-05-19,2025-05-19,1,medical
+18,Constantin Voicu,2025-07-03,2025-07-03,1,medical
+19,Rita Timea Torok,2025-06-10,2025-06-10,1,delegatie
+20,Luisa Yi Qing Yang,2025-05-15,2025-05-16,2,medical
+21,Reka Katalin Darko,2025-07-25,2025-07-27,3,zi libera
+21,Reka Katalin Darko,2025-05-29,2025-05-29,1,medical
+21,Reka Katalin Darko,2025-07-29,2025-07-30,2,concediu odihna
+22,Cristian Valentin Alexa,2025-07-13,2025-07-15,3,zi libera
+22,Cristian Valentin Alexa,2025-06-28,2025-06-28,1,concediu odihna
+23,Alexandra Elena Pitaru,2025-07-17,2025-07-17,1,zi libera
+23,Alexandra Elena Pitaru,2025-07-07,2025-07-07,1,zi libera
+23,Alexandra Elena Pitaru,2025-07-21,2025-07-23,3,concediu odihna
+24,Dragos Maxim,2025-05-26,2025-05-27,2,concediu odihna
+24,Dragos Maxim,2025-06-06,2025-06-06,1,medical
+24,Dragos Maxim,2025-07-12,2025-07-13,2,medical
+25,Denisa Maria Gorea,2025-07-16,2025-07-18,3,medical
+25,Denisa Maria Gorea,2025-05-15,2025-05-17,3,medical
+25,Denisa Maria Gorea,2025-07-19,2025-07-20,2,delegatie
+26,Adelina Patlatii,2025-07-23,2025-07-23,1,delegatie
+27,Serban Marian Precup,2025-06-25,2025-06-26,2,zi libera
+27,Serban Marian Precup,2025-07-01,2025-07-03,3,zi libera
+27,Serban Marian Precup,2025-07-14,2025-07-16,3,concediu odihna
+28,Andrei Tudor Grumazescu,2025-07-01,2025-07-03,3,concediu odihna
+29,David Postolea,2025-06-04,2025-06-06,3,zi libera
+30,Alessia-Elena Rados,2025-07-11,2025-07-11,1,concediu odihna
+30,Alessia-Elena Rados,2025-05-09,2025-05-09,1,zi libera
+31,Mihnea Daniel Popescu,2025-05-07,2025-05-07,1,medical
+31,Mihnea Daniel Popescu,2025-05-10,2025-05-12,3,concediu odihna
+32,Manuel Lazar,2025-05-29,2025-05-31,3,delegatie
+33,Adrian Vasile Vladescu,2025-05-26,2025-05-28,3,concediu odihna
+33,Adrian Vasile Vladescu,2025-05-30,2025-05-30,1,concediu odihna
+34,Darius-Cristian Gherle,2025-06-22,2025-06-24,3,concediu odihna
+34,Darius-Cristian Gherle,2025-06-20,2025-06-21,2,concediu odihna
+35,Andrei L Popovici,2025-07-25,2025-07-25,1,medical
+36,Huba Nemet,2025-05-25,2025-05-26,2,delegatie
+36,Huba Nemet,2025-05-26,2025-05-27,2,zi libera
+37,Maria Madalina Olaru,2025-05-23,2025-05-23,1,delegatie
+37,Maria Madalina Olaru,2025-05-01,2025-05-02,2,zi libera
+37,Maria Madalina Olaru,2025-05-28,2025-05-29,2,delegatie
+38,Gheorghe-Cristian Terovan,2025-06-18,2025-06-19,2,delegatie
+38,Gheorghe-Cristian Terovan,2025-06-25,2025-06-25,1,zi libera
+39,Alexandru Munteanu,2025-05-13,2025-05-13,1,medical
+39,Alexandru Munteanu,2025-06-08,2025-06-09,2,medical
+40,Teodora Maximiuc,2025-05-02,2025-05-02,1,zi libera
+40,Teodora Maximiuc,2025-05-16,2025-05-16,1,zi libera
+40,Teodora Maximiuc,2025-07-22,2025-07-22,1,delegatie
+41,Andreea Cront,2025-07-11,2025-07-11,1,zi libera
+41,Andreea Cront,2025-07-17,2025-07-17,1,medical
+41,Andreea Cront,2025-06-11,2025-06-12,2,medical
+42,Vlad Ioan Durdeu,2025-05-02,2025-05-03,2,delegatie
+42,Vlad Ioan Durdeu,2025-06-29,2025-06-30,2,medical
+43,Alexandru Bardasu,2025-07-19,2025-07-20,2,concediu odihna
+44,Alexandru Mihai Matei,2025-05-13,2025-05-15,3,concediu odihna
+44,Alexandru Mihai Matei,2025-07-16,2025-07-16,1,medical
+44,Alexandru Mihai Matei,2025-06-18,2025-06-20,3,zi libera
+45,Iuliana Raluca Butnariu,2025-07-25,2025-07-27,3,medical
+46,Ioana Marc,2025-07-05,2025-07-05,1,medical
+47,Bianca Popescu,2025-07-10,2025-07-10,1,concediu odihna
+47,Bianca Popescu,2025-05-14,2025-05-16,3,medical
+47,Bianca Popescu,2025-06-13,2025-06-15,3,delegatie
+48,Gabriela Casandra Pitu,2025-07-08,2025-07-10,3,zi libera
+48,Gabriela Casandra Pitu,2025-05-04,2025-05-05,2,zi libera
+49,Ariana Casandra Olaru,2025-05-07,2025-05-08,2,delegatie
+50,George Eduard Achiriloaei,2025-06-11,2025-06-12,2,zi libera
+51,Tudor Gabriel Pascaru,2025-05-25,2025-05-27,3,delegatie
+51,Tudor Gabriel Pascaru,2025-06-21,2025-06-21,1,medical
+51,Tudor Gabriel Pascaru,2025-05-08,2025-05-10,3,delegatie
+52,Victor Valentin Vladulescu,2025-06-16,2025-06-18,3,delegatie
+52,Victor Valentin Vladulescu,2025-07-05,2025-07-05,1,medical
+53,Andrei Alin Socoteala,2025-06-18,2025-06-20,3,zi libera
+53,Andrei Alin Socoteala,2025-05-26,2025-05-28,3,concediu odihna
+53,Andrei Alin Socoteala,2025-05-13,2025-05-14,2,delegatie
+54,Mihai Alexandru Ionel,2025-07-22,2025-07-22,1,medical
+55,Radu Ioan Maris,2025-05-25,2025-05-25,1,delegatie
+56,Vlad Ionut Guriuc,2025-07-28,2025-07-29,2,concediu odihna
+56,Vlad Ionut Guriuc,2025-05-11,2025-05-11,1,medical
+56,Vlad Ionut Guriuc,2025-05-14,2025-05-14,1,zi libera
+57,Maria Iulia Zdrenghea,2025-06-28,2025-06-29,2,medical
+57,Maria Iulia Zdrenghea,2025-05-12,2025-05-12,1,delegatie
+58,Andreea Gabriela Pop,2025-06-21,2025-06-21,1,delegatie
+58,Andreea Gabriela Pop,2025-06-16,2025-06-18,3,zi libera
+58,Andreea Gabriela Pop,2025-06-29,2025-06-29,1,concediu odihna
+59,Beniamin Cioban,2025-07-17,2025-07-17,1,concediu odihna
+59,Beniamin Cioban,2025-05-12,2025-05-13,2,concediu odihna
+60,Andrei Bogdan Aluculesei,2025-06-14,2025-06-15,2,concediu odihna
+60,Andrei Bogdan Aluculesei,2025-06-20,2025-06-22,3,zi libera
+61,Vlad Baranceanu,2025-06-27,2025-06-28,2,delegatie
+61,Vlad Baranceanu,2025-05-28,2025-05-28,1,zi libera
+62,Nicolae Vasile Veciunca,2025-07-18,2025-07-18,1,delegatie
+63,Matei Micu,2025-05-26,2025-05-28,3,concediu odihna
+63,Matei Micu,2025-05-28,2025-05-30,3,concediu odihna
+63,Matei Micu,2025-06-04,2025-06-06,3,medical
+64,Vlad Marian Pitariu,2025-05-15,2025-05-17,3,zi libera
+65,Cristiana Ioana Apastinei,2025-05-30,2025-05-31,2,concediu odihna
+65,Cristiana Ioana Apastinei,2025-07-22,2025-07-22,1,medical
+66,Alexandru Baba,2025-05-14,2025-05-14,1,medical
+67,Costina Vanghele,2025-06-03,2025-06-04,2,delegatie
+67,Costina Vanghele,2025-05-26,2025-05-28,3,zi libera
+67,Costina Vanghele,2025-07-05,2025-07-05,1,medical
+68,Mozes Csaszar,2025-05-01,2025-05-03,3,delegatie
+68,Mozes Csaszar,2025-05-14,2025-05-16,3,delegatie
+68,Mozes Csaszar,2025-06-22,2025-06-23,2,medical
+69,Zoltan Balint,2025-06-28,2025-06-30,3,medical
+69,Zoltan Balint,2025-07-24,2025-07-25,2,zi libera
+70,Alexandru Dumitru Ionita,2025-05-01,2025-05-03,3,zi libera
+70,Alexandru Dumitru Ionita,2025-05-21,2025-05-23,3,zi libera
+70,Alexandru Dumitru Ionita,2025-05-02,2025-05-04,3,delegatie
+71,Anca Vasilica Iacob,2025-06-19,2025-06-20,2,medical
+72,Tudor Mihai Iakkel,2025-07-02,2025-07-04,3,concediu odihna
+72,Tudor Mihai Iakkel,2025-06-21,2025-06-22,2,delegatie
+73,Mihaly Richard Teutsch,2025-07-15,2025-07-16,2,concediu odihna
+73,Mihaly Richard Teutsch,2025-06-28,2025-06-30,3,delegatie
+74,Iasmina Pagu,2025-06-03,2025-06-03,1,delegatie
+74,Iasmina Pagu,2025-07-26,2025-07-28,3,zi libera
+74,Iasmina Pagu,2025-05-23,2025-05-24,2,concediu odihna
+75,Alex Rares Roman,2025-07-19,2025-07-19,1,concediu odihna
+75,Alex Rares Roman,2025-06-18,2025-06-18,1,medical
+75,Alex Rares Roman,2025-06-18,2025-06-20,3,delegatie
+76,Vlad Badulescu,2025-06-29,2025-06-30,2,concediu odihna
+77,Emanuel Luculescu,2025-07-04,2025-07-05,2,zi libera
+78,Madalina Daiana Gligan,2025-06-15,2025-06-16,2,zi libera
+78,Madalina Daiana Gligan,2025-07-30,2025-07-30,1,zi libera
+78,Madalina Daiana Gligan,2025-06-19,2025-06-20,2,delegatie
+79,Vlad Cojocaru,2025-06-01,2025-06-03,3,zi libera
+80,George Nicolae Botos,2025-07-20,2025-07-20,1,zi libera
+80,George Nicolae Botos,2025-05-10,2025-05-10,1,zi libera
+80,George Nicolae Botos,2025-05-24,2025-05-25,2,concediu odihna
+81,Cezara Teofana Aprofirei,2025-06-25,2025-06-27,3,concediu odihna
+82,Bianca Anamaria Chiorean,2025-05-01,2025-05-03,3,delegatie
+83,Ionut Popescu,2025-07-11,2025-07-13,3,medical
+84,Denisa Ibanescu,2025-05-20,2025-05-21,2,delegatie
+85,Iulia Olivia Cipleu,2025-07-15,2025-07-17,3,delegatie
+85,Iulia Olivia Cipleu,2025-05-22,2025-05-23,2,medical
+86,David Serban,2025-05-08,2025-05-08,1,zi libera
+87,Felix Cosmin Orga,2025-06-24,2025-06-26,3,delegatie
+87,Felix Cosmin Orga,2025-06-08,2025-06-10,3,zi libera
+87,Felix Cosmin Orga,2025-05-20,2025-05-21,2,zi libera
+88,Mariana Ionela Muntian,2025-06-16,2025-06-17,2,concediu odihna
+89,Ruben Daniel Pasca,2025-07-06,2025-07-08,3,delegatie
+90,Alexandru Toma,2025-06-09,2025-06-09,1,medical
+91,Augustin Dumitru Sasu,2025-07-28,2025-07-29,2,concediu odihna
+91,Augustin Dumitru Sasu,2025-07-04,2025-07-05,2,delegatie
+92,Mihai Negrea,2025-07-12,2025-07-13,2,medical
+93,Ionut Vlad Cira,2025-06-02,2025-06-02,1,medical
+93,Ionut Vlad Cira,2025-06-05,2025-06-05,1,zi libera
+93,Ionut Vlad Cira,2025-06-08,2025-06-10,3,concediu odihna
+94,Alexandru Marian Armanu,2025-05-11,2025-05-12,2,delegatie
+95,Luigi Emanuel Arama,2025-07-16,2025-07-16,1,delegatie
+96,Sebastian Popa,2025-06-28,2025-06-29,2,delegatie
+97,Florina Eugenia Hategan,2025-07-11,2025-07-11,1,concediu odihna
+98,Andrei Titus Pavel,2025-05-07,2025-05-08,2,concediu odihna
+98,Andrei Titus Pavel,2025-05-12,2025-05-14,3,delegatie
+99,Darius Dinu,2025-06-26,2025-06-26,1,zi libera
+99,Darius Dinu,2025-06-03,2025-06-04,2,concediu odihna
+99,Darius Dinu,2025-05-10,2025-05-11,2,zi libera
+100,Rares Dascalu,2025-07-19,2025-07-21,3,delegatie
+101,Arthur Negosanu,2025-06-16,2025-06-17,2,medical
+102,Sabin Chirila,2025-07-05,2025-07-07,3,delegatie
+103,Sorin Cristian Miron,2025-07-17,2025-07-18,2,zi libera
+103,Sorin Cristian Miron,2025-06-09,2025-06-11,3,concediu odihna
+103,Sorin Cristian Miron,2025-05-15,2025-05-15,1,zi libera
+104,Gabriel Alexandru Nedelcu,2025-05-05,2025-05-06,2,zi libera
+105,Octavian Paul Ilies,2025-07-07,2025-07-07,1,delegatie
+105,Octavian Paul Ilies,2025-05-20,2025-05-20,1,concediu odihna
+105,Octavian Paul Ilies,2025-06-29,2025-06-30,2,zi libera
+106,Camelia Stoica,2025-06-10,2025-06-10,1,zi libera
+106,Camelia Stoica,2025-07-29,2025-07-30,2,concediu odihna
+107,Madalina Puia,2025-06-22,2025-06-22,1,zi libera
+107,Madalina Puia,2025-05-19,2025-05-21,3,delegatie
+107,Madalina Puia,2025-05-31,2025-05-31,1,zi libera
+108,Liviu Istrate,2025-07-02,2025-07-02,1,delegatie
+108,Liviu Istrate,2025-07-04,2025-07-05,2,delegatie
+109,Alexandru Zagan,2025-05-19,2025-05-20,2,concediu odihna
+110,Lucian Vatamanu,2025-06-19,2025-06-19,1,delegatie
+110,Lucian Vatamanu,2025-05-11,2025-05-11,1,concediu odihna
+110,Lucian Vatamanu,2025-07-21,2025-07-23,3,concediu odihna
+111,Vlad Muresan,2025-05-22,2025-05-24,3,zi libera
+111,Vlad Muresan,2025-07-15,2025-07-17,3,medical
+112,Vlad Cristian Brinzas,2025-06-02,2025-06-03,2,zi libera
+112,Vlad Cristian Brinzas,2025-05-17,2025-05-17,1,concediu odihna
+112,Vlad Cristian Brinzas,2025-07-29,2025-07-31,3,concediu odihna
+113,Robert-Cosmin Tudorache,2025-05-02,2025-05-04,3,delegatie
+114,Irina Vasilita,2025-07-28,2025-07-29,2,concediu odihna
+114,Irina Vasilita,2025-06-16,2025-06-17,2,delegatie
+114,Irina Vasilita,2025-06-15,2025-06-15,1,medical
+115,Raluca Roiban,2025-07-26,2025-07-26,1,delegatie
+116,Teodor Badarcea,2025-07-09,2025-07-09,1,medical
+116,Teodor Badarcea,2025-07-26,2025-07-27,2,medical
+117,Filip Craciun,2025-05-26,2025-05-26,1,zi libera
+118,Andrei Margelatu,2025-06-16,2025-06-16,1,medical
+118,Andrei Margelatu,2025-05-21,2025-05-23,3,medical
+119,Anton Calin Stroia,2025-05-02,2025-05-04,3,concediu odihna
+119,Anton Calin Stroia,2025-07-29,2025-07-31,3,zi libera
+119,Anton Calin Stroia,2025-06-18,2025-06-19,2,delegatie
+120,Madalina Birtu,2025-07-28,2025-07-28,1,delegatie
+120,Madalina Birtu,2025-06-05,2025-06-06,2,concediu odihna
+121,Daniel-Ionel Beg,2025-06-01,2025-06-02,2,zi libera
+121,Daniel-Ionel Beg,2025-05-19,2025-05-20,2,zi libera
+122,Iustin-Mihai Stanciu,2025-06-13,2025-06-15,3,delegatie
+122,Iustin-Mihai Stanciu,2025-06-20,2025-06-22,3,medical
+123,Gabriel Firisar,2025-05-04,2025-05-04,1,zi libera
+123,Gabriel Firisar,2025-05-05,2025-05-05,1,delegatie
+123,Gabriel Firisar,2025-07-11,2025-07-12,2,zi libera
+124,Maria-Ioana Fuerea,2025-05-17,2025-05-17,1,delegatie
+125,Stefan Tiberiu Paduraru,2025-05-08,2025-05-09,2,concediu odihna
+125,Stefan Tiberiu Paduraru,2025-06-01,2025-06-02,2,zi libera
+125,Stefan Tiberiu Paduraru,2025-06-21,2025-06-22,2,concediu odihna
+126,Iuliana Elena Rusu,2025-06-23,2025-06-24,2,medical
+126,Iuliana Elena Rusu,2025-07-24,2025-07-24,1,medical
+127,Daniel Kewin Chifa,2025-06-06,2025-06-06,1,concediu odihna
+128,Stefan Liute,2025-07-28,2025-07-29,2,concediu odihna
+129,Maria Mihaela Bradea,2025-05-22,2025-05-23,2,medical
+130,Mihnea Amihailesei,2025-06-08,2025-06-09,2,concediu odihna
+130,Mihnea Amihailesei,2025-06-26,2025-06-27,2,zi libera
+130,Mihnea Amihailesei,2025-06-26,2025-06-28,3,zi libera
+131,Patric Caliman,2025-05-17,2025-05-17,1,medical
+131,Patric Caliman,2025-06-18,2025-06-19,2,medical
+131,Patric Caliman,2025-05-07,2025-05-09,3,delegatie
+132,Daria Lupu Dima,2025-05-23,2025-05-23,1,zi libera
+133,Razvan Azoitei,2025-05-08,2025-05-09,2,medical
+133,Razvan Azoitei,2025-07-11,2025-07-11,1,zi libera
+134,Tudor Leonte,2025-06-27,2025-06-28,2,concediu odihna
+134,Tudor Leonte,2025-05-04,2025-05-06,3,delegatie
+134,Tudor Leonte,2025-07-30,2025-07-31,2,delegatie
+135,Botond Ors Solyom,2025-07-18,2025-07-20,3,concediu odihna
+135,Botond Ors Solyom,2025-07-20,2025-07-20,1,concediu odihna
+136,Irina Morosanu,2025-07-10,2025-07-10,1,concediu odihna
+136,Irina Morosanu,2025-07-07,2025-07-09,3,medical
+136,Irina Morosanu,2025-07-01,2025-07-02,2,delegatie
+137,Costin Manolescu,2025-06-20,2025-06-21,2,zi libera
+137,Costin Manolescu,2025-06-20,2025-06-20,1,delegatie
+137,Costin Manolescu,2025-07-18,2025-07-19,2,zi libera
+138,Ioana Alexia Popa,2025-05-30,2025-05-30,1,zi libera
+138,Ioana Alexia Popa,2025-07-29,2025-07-30,2,medical
+139,Silviu Vasilica Luta,2025-07-08,2025-07-08,1,delegatie
+139,Silviu Vasilica Luta,2025-06-16,2025-06-18,3,concediu odihna
+139,Silviu Vasilica Luta,2025-05-09,2025-05-10,2,concediu odihna
+140,Fabian Iordache,2025-05-18,2025-05-20,3,concediu odihna
+141,Petru Adelin Cojocaru,2025-07-21,2025-07-21,1,zi libera
+142,Dan Teodor Buzoianu,2025-05-15,2025-05-15,1,delegatie
+142,Dan Teodor Buzoianu,2025-07-06,2025-07-07,2,zi libera
+143,Alexandru Catrinescu,2025-07-14,2025-07-16,3,zi libera
+143,Alexandru Catrinescu,2025-05-26,2025-05-27,2,medical
+143,Alexandru Catrinescu,2025-07-08,2025-07-08,1,delegatie
+144,Alina Trincu,2025-07-09,2025-07-11,3,delegatie
+145,Andrei Octavian Minca,2025-05-04,2025-05-05,2,delegatie
+145,Andrei Octavian Minca,2025-06-11,2025-06-11,1,concediu odihna
+145,Andrei Octavian Minca,2025-07-07,2025-07-08,2,medical
+146,Mihnea-Alexandru Pele,2025-07-13,2025-07-13,1,zi libera
+147,George Andrei Necula,2025-07-21,2025-07-21,1,zi libera
+147,George Andrei Necula,2025-06-10,2025-06-11,2,medical
+148,Alexandru Zosin,2025-07-07,2025-07-07,1,medical
+148,Alexandru Zosin,2025-06-27,2025-06-28,2,medical
+149,Emma Simina Muresan,2025-06-30,2025-07-01,2,medical
+150,Stefan-Claudiu Bulintis,2025-07-09,2025-07-11,3,medical
+150,Stefan-Claudiu Bulintis,2025-06-25,2025-06-26,2,zi libera
+150,Stefan-Claudiu Bulintis,2025-06-13,2025-06-14,2,concediu odihna
+151,Vlad-Stefan Sas,2025-07-29,2025-07-31,3,zi libera
+151,Vlad-Stefan Sas,2025-05-19,2025-05-19,1,zi libera
+152,Alexandru Lazar,2025-06-15,2025-06-16,2,delegatie
+153,Catalin Festeu,2025-05-31,2025-06-01,2,medical
+154,Celia Ciurchil-Giurgiu,2025-06-23,2025-06-23,1,zi libera
+154,Celia Ciurchil-Giurgiu,2025-06-28,2025-06-30,3,medical
+154,Celia Ciurchil-Giurgiu,2025-05-02,2025-05-04,3,medical
+155,Ionut Birsan,2025-06-06,2025-06-06,1,zi libera
+156,Andrei George Avram,2025-05-23,2025-05-23,1,zi libera
+156,Andrei George Avram,2025-07-09,2025-07-10,2,delegatie
+156,Andrei George Avram,2025-05-14,2025-05-16,3,medical
+157,Alexandru Cristian Grajdeanu,2025-06-29,2025-06-30,2,zi libera
+157,Alexandru Cristian Grajdeanu,2025-07-21,2025-07-23,3,concediu odihna
+158,Csilla Boglarka Nagy,2025-07-11,2025-07-12,2,medical
+158,Csilla Boglarka Nagy,2025-06-11,2025-06-11,1,medical
+158,Csilla Boglarka Nagy,2025-06-27,2025-06-29,3,delegatie
+159,Andreea Grecu,2025-06-08,2025-06-10,3,delegatie
+159,Andreea Grecu,2025-06-20,2025-06-22,3,zi libera
+160,Razvan Dumitru,2025-05-04,2025-05-05,2,zi libera
+161,Laurentiu Fratila,2025-05-31,2025-05-31,1,zi libera
+161,Laurentiu Fratila,2025-06-03,2025-06-05,3,delegatie
+161,Laurentiu Fratila,2025-07-08,2025-07-08,1,concediu odihna
+162,Carmen-Gabriela Nadragea,2025-05-28,2025-05-28,1,zi libera
+162,Carmen-Gabriela Nadragea,2025-06-02,2025-06-02,1,zi libera
+162,Carmen-Gabriela Nadragea,2025-05-11,2025-05-12,2,delegatie
+163,Gabriela Miruna Stan,2025-06-22,2025-06-23,2,concediu odihna
+163,Gabriela Miruna Stan,2025-05-17,2025-05-19,3,delegatie
+164,Daniel Rotaru,2025-07-14,2025-07-16,3,medical
+164,Daniel Rotaru,2025-06-13,2025-06-14,2,concediu odihna
+164,Daniel Rotaru,2025-07-14,2025-07-16,3,zi libera
+165,Timotei Cristian Morar,2025-07-29,2025-07-29,1,zi libera
+165,Timotei Cristian Morar,2025-06-03,2025-06-04,2,zi libera
+166,Alice Tache,2025-07-05,2025-07-07,3,medical
+167,Razvan Niculae,2025-06-23,2025-06-24,2,concediu odihna
+168,Andrei Apostol,2025-05-09,2025-05-10,2,concediu odihna
+168,Andrei Apostol,2025-06-26,2025-06-26,1,medical
+168,Andrei Apostol,2025-05-18,2025-05-19,2,delegatie
+169,Stefan Stescu,2025-07-02,2025-07-03,2,zi libera
+169,Stefan Stescu,2025-07-06,2025-07-08,3,concediu odihna
+170,Ferdinand Alexandru Cabat,2025-07-28,2025-07-29,2,medical
+171,Rares Stefan Cazan,2025-06-06,2025-06-08,3,zi libera
+171,Rares Stefan Cazan,2025-06-27,2025-06-28,2,concediu odihna
+171,Rares Stefan Cazan,2025-07-06,2025-07-06,1,zi libera
+172,Sergiu Ungureanu,2025-07-01,2025-07-03,3,delegatie
+172,Sergiu Ungureanu,2025-06-21,2025-06-23,3,medical
+172,Sergiu Ungureanu,2025-05-16,2025-05-16,1,medical
+173,Nicola-Diana Sincaru,2025-06-17,2025-06-19,3,delegatie
+173,Nicola-Diana Sincaru,2025-05-13,2025-05-13,1,delegatie
+174,Bogdan Gargu,2025-06-08,2025-06-09,2,medical
+175,Vasile Meghesan,2025-06-02,2025-06-02,1,delegatie
+175,Vasile Meghesan,2025-06-20,2025-06-20,1,delegatie
+176,Alexandru Mirea,2025-06-15,2025-06-17,3,concediu odihna
+176,Alexandru Mirea,2025-06-29,2025-07-01,3,zi libera
+176,Alexandru Mirea,2025-05-21,2025-05-22,2,delegatie
+177,Denisa Elena Stolniceanu,2025-07-22,2025-07-22,1,medical
+177,Denisa Elena Stolniceanu,2025-07-05,2025-07-05,1,medical
+177,Denisa Elena Stolniceanu,2025-07-03,2025-07-04,2,concediu odihna
+178,Aron Domokos Telegdy,2025-06-16,2025-06-16,1,medical
+178,Aron Domokos Telegdy,2025-05-06,2025-05-07,2,delegatie
+178,Aron Domokos Telegdy,2025-06-06,2025-06-06,1,concediu odihna
+179,Ilinca Maria Popovici,2025-06-12,2025-06-14,3,medical
+179,Ilinca Maria Popovici,2025-06-11,2025-06-11,1,medical
+179,Ilinca Maria Popovici,2025-07-24,2025-07-25,2,delegatie
+180,Alexandru Gabriel Cazan,2025-06-04,2025-06-06,3,concediu odihna
+181,Ioana Victoria Zinveliu,2025-06-29,2025-07-01,3,zi libera
+181,Ioana Victoria Zinveliu,2025-06-05,2025-06-05,1,concediu odihna
+182,Radu Nicolae,2025-07-07,2025-07-09,3,concediu odihna
+182,Radu Nicolae,2025-07-28,2025-07-29,2,medical
+183,Laura Andrada Ciobanu,2025-06-22,2025-06-23,2,concediu odihna
+183,Laura Andrada Ciobanu,2025-06-07,2025-06-08,2,medical
+183,Laura Andrada Ciobanu,2025-05-05,2025-05-07,3,zi libera
+184,George Patrasc,2025-05-07,2025-05-09,3,concediu odihna
+184,George Patrasc,2025-06-24,2025-06-26,3,zi libera
+184,George Patrasc,2025-06-14,2025-06-15,2,medical
+185,Silviu Mihail Pavel,2025-07-13,2025-07-15,3,delegatie
+186,Alexandru Pestritu,2025-05-12,2025-05-14,3,concediu odihna
+186,Alexandru Pestritu,2025-06-21,2025-06-23,3,concediu odihna
+186,Alexandru Pestritu,2025-05-22,2025-05-22,1,concediu odihna
+187,Raul Mihai Rusu,2025-05-04,2025-05-05,2,concediu odihna
+187,Raul Mihai Rusu,2025-05-28,2025-05-30,3,zi libera
+188,Andrada Maria Tinta,2025-05-21,2025-05-21,1,zi libera
+189,Mihnea Sebastian Ilie Encean,2025-06-12,2025-06-13,2,concediu odihna
+189,Mihnea Sebastian Ilie Encean,2025-07-03,2025-07-03,1,medical
+189,Mihnea Sebastian Ilie Encean,2025-05-09,2025-05-09,1,delegatie
+190,Andrei-Alexandru Midus,2025-06-03,2025-06-05,3,concediu odihna
+190,Andrei-Alexandru Midus,2025-05-02,2025-05-04,3,zi libera
+190,Andrei-Alexandru Midus,2025-06-29,2025-06-30,2,concediu odihna
+191,Alexandru Edves,2025-05-25,2025-05-25,1,delegatie
+191,Alexandru Edves,2025-05-21,2025-05-23,3,concediu odihna
+192,Bogdan Nicolae Cotta,2025-06-19,2025-06-19,1,medical
+192,Bogdan Nicolae Cotta,2025-06-18,2025-06-18,1,concediu odihna
+192,Bogdan Nicolae Cotta,2025-06-15,2025-06-17,3,delegatie
+193,Stefan Cotos,2025-05-23,2025-05-24,2,concediu odihna
+194,Marcos Dimitris Fetcu,2025-07-19,2025-07-21,3,zi libera
+195,Oana-Maria Danciu,2025-05-13,2025-05-15,3,concediu odihna
+195,Oana-Maria Danciu,2025-06-30,2025-06-30,1,medical
+196,Alexandru Duta,2025-06-21,2025-06-23,3,medical
+196,Alexandru Duta,2025-05-17,2025-05-19,3,concediu odihna
+196,Alexandru Duta,2025-06-30,2025-06-30,1,medical
+197,Cornelia Cojocari,2025-06-19,2025-06-20,2,delegatie
+197,Cornelia Cojocari,2025-07-12,2025-07-12,1,zi libera
+198,Lavinia Avram,2025-07-23,2025-07-23,1,zi libera
+198,Lavinia Avram,2025-06-24,2025-06-24,1,zi libera
+199,Rares Alexandru Iancu,2025-06-14,2025-06-14,1,delegatie
+199,Rares Alexandru Iancu,2025-07-24,2025-07-25,2,medical
+199,Rares Alexandru Iancu,2025-07-11,2025-07-12,2,concediu odihna
+200,Andreea Cacenschi,2025-05-23,2025-05-24,2,concediu odihna
+201,Rares Muresan,2025-06-11,2025-06-11,1,zi libera
+201,Rares Muresan,2025-06-24,2025-06-24,1,delegatie
+201,Rares Muresan,2025-05-03,2025-05-03,1,delegatie
+202,Denis-Mihai Mateas,2025-06-01,2025-06-01,1,delegatie
+203,Rafael Andries,2025-06-28,2025-06-28,1,concediu odihna
+203,Rafael Andries,2025-07-11,2025-07-11,1,zi libera
+204,Armin Andrei Chanchian,2025-05-20,2025-05-20,1,delegatie
+205,Theodor Cristian Gheorghe,2025-07-17,2025-07-18,2,medical
+205,Theodor Cristian Gheorghe,2025-05-01,2025-05-03,3,concediu odihna
+205,Theodor Cristian Gheorghe,2025-07-29,2025-07-29,1,concediu odihna
+206,Mihai Alexandru Militaru,2025-07-16,2025-07-18,3,concediu odihna
+206,Mihai Alexandru Militaru,2025-07-13,2025-07-15,3,medical
+207,Andrei Mihnea,2025-06-11,2025-06-11,1,concediu odihna
+207,Andrei Mihnea,2025-05-24,2025-05-26,3,concediu odihna
+207,Andrei Mihnea,2025-05-11,2025-05-12,2,medical
+208,Octavian Cojocariu,2025-05-31,2025-05-31,1,concediu odihna
+208,Octavian Cojocariu,2025-05-24,2025-05-26,3,delegatie
+209,Cosmin Adrian Neamtiu,2025-07-26,2025-07-28,3,delegatie
+210,Paul Valentin Vela,2025-07-12,2025-07-13,2,medical
+210,Paul Valentin Vela,2025-07-25,2025-07-26,2,delegatie
+210,Paul Valentin Vela,2025-05-08,2025-05-09,2,delegatie
+211,Cerasela Nicola Soare,2025-06-18,2025-06-20,3,medical
+211,Cerasela Nicola Soare,2025-05-06,2025-05-08,3,zi libera
+212,Stefania Diana Stirbu,2025-07-25,2025-07-27,3,delegatie
+212,Stefania Diana Stirbu,2025-07-10,2025-07-10,1,medical
+213,Cosmin Chirazi,2025-06-13,2025-06-13,1,delegatie
+213,Cosmin Chirazi,2025-07-29,2025-07-31,3,medical
+213,Cosmin Chirazi,2025-07-17,2025-07-18,2,medical
+214,Daniela Munteanu,2025-06-16,2025-06-16,1,concediu odihna
+215,Andrei Tudor Mirza,2025-06-25,2025-06-27,3,delegatie
+215,Andrei Tudor Mirza,2025-05-31,2025-05-31,1,zi libera
+215,Andrei Tudor Mirza,2025-07-16,2025-07-16,1,concediu odihna
+216,Robert Negre,2025-06-16,2025-06-18,3,zi libera
+216,Robert Negre,2025-05-24,2025-05-25,2,medical
+216,Robert Negre,2025-06-27,2025-06-29,3,zi libera
+217,Robert-Viorel Lazarov,2025-06-23,2025-06-24,2,concediu odihna
+218,Adrian Matean,2025-07-22,2025-07-22,1,medical
+218,Adrian Matean,2025-05-17,2025-05-17,1,medical
+218,Adrian Matean,2025-05-23,2025-05-25,3,concediu odihna
+219,Robert Cristian,2025-05-01,2025-05-02,2,medical
+220,Adriana Maria Vadean,2025-07-02,2025-07-04,3,delegatie
+220,Adriana Maria Vadean,2025-05-10,2025-05-11,2,delegatie
+220,Adriana Maria Vadean,2025-06-24,2025-06-25,2,delegatie
+221,Diandra Fechita,2025-06-03,2025-06-04,2,concediu odihna
+221,Diandra Fechita,2025-05-31,2025-06-01,2,concediu odihna
+222,Tudor Mihai,2025-06-14,2025-06-16,3,medical
+222,Tudor Mihai,2025-07-18,2025-07-19,2,delegatie
+223,Florin Nita,2025-06-12,2025-06-14,3,medical
+223,Florin Nita,2025-05-19,2025-05-21,3,zi libera
+224,George-Catalin Ghiold,2025-07-01,2025-07-02,2,concediu odihna
+225,Dragos Vatra,2025-07-04,2025-07-06,3,delegatie
+225,Dragos Vatra,2025-07-25,2025-07-26,2,zi libera
+226,Alexandru Panainte,2025-05-30,2025-05-30,1,concediu odihna
+226,Alexandru Panainte,2025-05-25,2025-05-25,1,zi libera
+227,Alexandra Simona Danca,2025-05-31,2025-06-02,3,concediu odihna
+228,Robert Alexandru Badea,2025-07-13,2025-07-15,3,zi libera
+229,Cristian Ghiuta,2025-05-21,2025-05-23,3,medical
+230,Darius Margarit,2025-05-21,2025-05-22,2,concediu odihna
+231,Tiberiu Gabriel Suditu,2025-05-04,2025-05-06,3,zi libera
+231,Tiberiu Gabriel Suditu,2025-06-22,2025-06-23,2,medical
+231,Tiberiu Gabriel Suditu,2025-07-14,2025-07-15,2,concediu odihna
+232,Bogdan Vasile Spilevoi,2025-06-25,2025-06-26,2,medical
+232,Bogdan Vasile Spilevoi,2025-06-15,2025-06-15,1,medical
+233,Andrei Madalin Diaconu,2025-05-14,2025-05-14,1,concediu odihna
+233,Andrei Madalin Diaconu,2025-05-01,2025-05-01,1,medical
+234,Sebastian Cristian Sleam,2025-07-02,2025-07-04,3,zi libera
+235,Dumitru Andrei Iroftei,2025-05-15,2025-05-16,2,zi libera
+236,Stefan-Daniel Ochian,2025-07-16,2025-07-17,2,concediu odihna
+236,Stefan-Daniel Ochian,2025-05-10,2025-05-10,1,medical
+237,Cornel Adrian Pop,2025-05-15,2025-05-15,1,delegatie
+238,Andrei Ionascu,2025-05-04,2025-05-04,1,delegatie
+238,Andrei Ionascu,2025-07-25,2025-07-27,3,medical
+239,Andreea Maria Monete,2025-07-14,2025-07-16,3,medical
+239,Andreea Maria Monete,2025-07-25,2025-07-27,3,medical
+239,Andreea Maria Monete,2025-05-24,2025-05-25,2,zi libera
+240,Radu Branici,2025-05-28,2025-05-28,1,delegatie
+240,Radu Branici,2025-05-05,2025-05-07,3,delegatie
+240,Radu Branici,2025-07-25,2025-07-26,2,zi libera
+241,Simona Boicu,2025-07-17,2025-07-18,2,concediu odihna
+241,Simona Boicu,2025-05-31,2025-06-01,2,concediu odihna
+242,Madalina Demian,2025-06-01,2025-06-02,2,delegatie
+242,Madalina Demian,2025-07-05,2025-07-05,1,zi libera
+242,Madalina Demian,2025-06-06,2025-06-07,2,delegatie
+243,Laszlo Carlos Fodor,2025-05-02,2025-05-03,2,medical
+244,Angel David Palihovici,2025-05-03,2025-05-05,3,delegatie
+244,Angel David Palihovici,2025-06-06,2025-06-07,2,zi libera
+245,Valentin Alexe,2025-06-12,2025-06-12,1,concediu odihna
+245,Valentin Alexe,2025-07-16,2025-07-16,1,medical
+246,Diana Cristina Mocan,2025-07-19,2025-07-21,3,zi libera
+247,Alexandru Tarcan,2025-07-13,2025-07-13,1,delegatie
+247,Alexandru Tarcan,2025-06-30,2025-06-30,1,zi libera
+247,Alexandru Tarcan,2025-06-13,2025-06-14,2,concediu odihna
+248,Serafim Uliuliuc,2025-07-15,2025-07-16,2,medical
+248,Serafim Uliuliuc,2025-07-03,2025-07-03,1,concediu odihna
+248,Serafim Uliuliuc,2025-06-05,2025-06-06,2,delegatie
+249,Alexandru Topan-Farcau,2025-05-15,2025-05-15,1,zi libera
+249,Alexandru Topan-Farcau,2025-06-02,2025-06-04,3,medical
+250,Darius Cosmin Vararean,2025-06-08,2025-06-08,1,medical
+250,Darius Cosmin Vararean,2025-06-29,2025-06-29,1,delegatie
+251,Alexandru Alin Potanga,2025-06-22,2025-06-22,1,medical
+252,Tiberiu Iatan,2025-05-26,2025-05-26,1,zi libera
+252,Tiberiu Iatan,2025-07-14,2025-07-15,2,concediu odihna
+253,Eduard George Stan,2025-07-25,2025-07-26,2,zi libera
+253,Eduard George Stan,2025-05-10,2025-05-11,2,zi libera
+253,Eduard George Stan,2025-06-08,2025-06-10,3,delegatie
+254,Alexandru Chelaru,2025-05-30,2025-06-01,3,zi libera
+254,Alexandru Chelaru,2025-05-05,2025-05-06,2,delegatie
+254,Alexandru Chelaru,2025-06-01,2025-06-03,3,concediu odihna
+255,Flora Balogh,2025-07-12,2025-07-12,1,delegatie
+255,Flora Balogh,2025-06-15,2025-06-15,1,delegatie
+255,Flora Balogh,2025-06-05,2025-06-07,3,zi libera
+256,Daria Alexia Irimie,2025-05-28,2025-05-30,3,medical
+257,Razvan Petru Leonte,2025-07-16,2025-07-16,1,zi libera
+258,Denis-Alexandru Antonescu,2025-07-26,2025-07-28,3,medical
+259,Alin Constantin Florescu,2025-07-18,2025-07-20,3,medical
+259,Alin Constantin Florescu,2025-05-21,2025-05-22,2,zi libera
+259,Alin Constantin Florescu,2025-05-27,2025-05-29,3,zi libera
+260,Mirela-Magdalena Catrina,2025-05-08,2025-05-09,2,zi libera
+261,George Iulian Stoian,2025-05-23,2025-05-24,2,delegatie
+262,Vlad V Muresan,2025-07-16,2025-07-16,1,concediu odihna
+263,Claudiu Marinescu,2025-06-26,2025-06-26,1,delegatie
+264,Polina Ciumac,2025-05-17,2025-05-17,1,medical
+265,Daniel Antoniu Dumitru,2025-07-03,2025-07-05,3,concediu odihna
+265,Daniel Antoniu Dumitru,2025-06-15,2025-06-17,3,concediu odihna
+265,Daniel Antoniu Dumitru,2025-06-28,2025-06-29,2,zi libera
+266,Rares Gabriel Margarint,2025-07-17,2025-07-19,3,concediu odihna
+267,Andrei Vataselu,2025-05-29,2025-05-31,3,concediu odihna
+267,Andrei Vataselu,2025-07-16,2025-07-17,2,medical
+267,Andrei Vataselu,2025-07-09,2025-07-09,1,concediu odihna
+268,Rares Agachi,2025-05-25,2025-05-25,1,delegatie
+269,Adina Gheorghevici,2025-05-16,2025-05-18,3,zi libera
+269,Adina Gheorghevici,2025-07-13,2025-07-13,1,concediu odihna
+269,Adina Gheorghevici,2025-05-19,2025-05-21,3,zi libera
+270,Ana Ciobanu,2025-07-14,2025-07-16,3,medical
+271,Mihai Maciuc,2025-05-27,2025-05-29,3,zi libera
+271,Mihai Maciuc,2025-07-28,2025-07-29,2,concediu odihna
+272,Darius Fratila,2025-06-13,2025-06-15,3,medical
+273,Patricia Costras,2025-05-23,2025-05-24,2,zi libera
+273,Patricia Costras,2025-06-26,2025-06-26,1,zi libera
+274,Denisa Lutic,2025-06-26,2025-06-27,2,medical
+275,Rares Anton Brezeanu,2025-05-24,2025-05-26,3,concediu odihna
+276,Adrian Visan,2025-07-13,2025-07-14,2,delegatie
+276,Adrian Visan,2025-07-14,2025-07-16,3,concediu odihna
+277,Catalin Ursu,2025-06-24,2025-06-25,2,zi libera
+277,Catalin Ursu,2025-06-09,2025-06-11,3,zi libera
+277,Catalin Ursu,2025-07-23,2025-07-25,3,zi libera
+278,Rares Ciprian Balan,2025-06-28,2025-06-29,2,delegatie
+278,Rares Ciprian Balan,2025-06-16,2025-06-16,1,medical
+278,Rares Ciprian Balan,2025-06-24,2025-06-24,1,zi libera
+279,Veronica Caplea,2025-05-20,2025-05-22,3,medical
+279,Veronica Caplea,2025-06-01,2025-06-03,3,concediu odihna
+280,Emanuela Lupancu,2025-07-09,2025-07-09,1,concediu odihna
+280,Emanuela Lupancu,2025-07-22,2025-07-23,2,zi libera
+280,Emanuela Lupancu,2025-07-26,2025-07-27,2,concediu odihna
+281,Raul Birsan,2025-06-15,2025-06-16,2,delegatie
+282,Laura Rusanescu,2025-05-19,2025-05-20,2,concediu odihna
+282,Laura Rusanescu,2025-05-30,2025-05-31,2,delegatie
+283,Sanda Dobrenco,2025-06-09,2025-06-11,3,delegatie
+284,Andrei Alexandru Gheorghe,2025-07-13,2025-07-15,3,concediu odihna
+285,Mircea Stefan Pop,2025-05-08,2025-05-10,3,concediu odihna
+285,Mircea Stefan Pop,2025-06-15,2025-06-17,3,zi libera
+285,Mircea Stefan Pop,2025-05-03,2025-05-05,3,delegatie
+286,Eric Marian Dascalu,2025-06-22,2025-06-22,1,concediu odihna
+286,Eric Marian Dascalu,2025-05-22,2025-05-24,3,delegatie
+286,Eric Marian Dascalu,2025-07-22,2025-07-24,3,zi libera
+287,Sabin Andrei Popa,2025-06-30,2025-07-02,3,medical
+287,Sabin Andrei Popa,2025-06-28,2025-06-30,3,zi libera
+287,Sabin Andrei Popa,2025-06-07,2025-06-07,1,concediu odihna
+288,Remus Mihai Prodan,2025-05-23,2025-05-23,1,zi libera
+288,Remus Mihai Prodan,2025-07-04,2025-07-06,3,zi libera
+288,Remus Mihai Prodan,2025-07-24,2025-07-25,2,concediu odihna
+289,Eduard Stefan Mariniuc,2025-06-22,2025-06-24,3,concediu odihna
+289,Eduard Stefan Mariniuc,2025-07-05,2025-07-05,1,medical
+289,Eduard Stefan Mariniuc,2025-07-15,2025-07-15,1,zi libera
+290,Cosmin Felecanu,2025-06-01,2025-06-01,1,zi libera
+290,Cosmin Felecanu,2025-05-26,2025-05-27,2,delegatie
+290,Cosmin Felecanu,2025-05-23,2025-05-25,3,delegatie
+291,Rodica Elena Rosca,2025-05-25,2025-05-25,1,delegatie
+291,Rodica Elena Rosca,2025-06-02,2025-06-03,2,concediu odihna
+292,Bogdan Patrania,2025-05-23,2025-05-23,1,zi libera
+292,Bogdan Patrania,2025-07-01,2025-07-03,3,concediu odihna
+292,Bogdan Patrania,2025-06-04,2025-06-04,1,zi libera
+293,Constantin Bogdan Moga,2025-05-15,2025-05-16,2,concediu odihna
+293,Constantin Bogdan Moga,2025-06-18,2025-06-20,3,delegatie
+293,Constantin Bogdan Moga,2025-07-05,2025-07-06,2,medical
+294,Miruna Curduman,2025-07-07,2025-07-08,2,zi libera
+294,Miruna Curduman,2025-05-29,2025-05-30,2,concediu odihna
+294,Miruna Curduman,2025-06-26,2025-06-28,3,delegatie
+295,Andra-Maria Petcu,2025-06-13,2025-06-13,1,medical
+295,Andra-Maria Petcu,2025-05-31,2025-05-31,1,concediu odihna
+296,Anca Elena Ilie,2025-05-02,2025-05-02,1,concediu odihna
+296,Anca Elena Ilie,2025-06-19,2025-06-19,1,zi libera
+297,Iulius Stefan Ambros,2025-06-22,2025-06-23,2,medical
+298,Andreea Marina Son,2025-05-11,2025-05-12,2,delegatie
+298,Andreea Marina Son,2025-05-28,2025-05-29,2,medical
+299,Matei Tatar,2025-06-01,2025-06-01,1,delegatie
+299,Matei Tatar,2025-05-25,2025-05-25,1,medical
+299,Matei Tatar,2025-06-23,2025-06-23,1,zi libera
+300,Radu Ioan Stoica,2025-05-28,2025-05-29,2,zi libera
+301,Mihai Cristian Tabarcea,2025-07-09,2025-07-09,1,zi libera
+301,Mihai Cristian Tabarcea,2025-06-11,2025-06-13,3,concediu odihna
+301,Mihai Cristian Tabarcea,2025-07-23,2025-07-25,3,zi libera
+302,Alexandru Serban,2025-06-14,2025-06-14,1,zi libera
+302,Alexandru Serban,2025-06-26,2025-06-28,3,zi libera
+302,Alexandru Serban,2025-05-29,2025-05-30,2,delegatie
+303,Andreea-Raluca Neagu,2025-07-22,2025-07-24,3,zi libera
+304,Delia Tudor,2025-06-06,2025-06-06,1,delegatie
+304,Delia Tudor,2025-06-20,2025-06-20,1,delegatie
+304,Delia Tudor,2025-06-04,2025-06-06,3,medical
+305,Stefan Nicolae Gheorghiu,2025-05-22,2025-05-22,1,zi libera
+305,Stefan Nicolae Gheorghiu,2025-05-05,2025-05-06,2,medical
+305,Stefan Nicolae Gheorghiu,2025-05-02,2025-05-04,3,medical
+306,Marius Beschieru,2025-06-03,2025-06-05,3,medical
+306,Marius Beschieru,2025-07-28,2025-07-29,2,zi libera
+306,Marius Beschieru,2025-05-30,2025-06-01,3,concediu odihna
+307,Vasile Tudorel Arion,2025-06-25,2025-06-26,2,delegatie
+307,Vasile Tudorel Arion,2025-05-22,2025-05-23,2,delegatie
+307,Vasile Tudorel Arion,2025-06-23,2025-06-25,3,zi libera
+308,Vlad Andrei Groza,2025-06-02,2025-06-03,2,medical
+308,Vlad Andrei Groza,2025-05-28,2025-05-30,3,zi libera
+309,Catalin George Adrian Otet,2025-07-11,2025-07-13,3,zi libera
+309,Catalin George Adrian Otet,2025-06-08,2025-06-09,2,zi libera
+309,Catalin George Adrian Otet,2025-07-03,2025-07-05,3,delegatie
+310,George Stefan Bodogae,2025-06-23,2025-06-23,1,delegatie
+310,George Stefan Bodogae,2025-05-02,2025-05-03,2,medical
+311,Daniela Maria Pascan,2025-06-22,2025-06-22,1,delegatie
+312,Alexandra Zamfir,2025-07-16,2025-07-18,3,delegatie
+312,Alexandra Zamfir,2025-07-01,2025-07-01,1,zi libera
+312,Alexandra Zamfir,2025-05-10,2025-05-10,1,zi libera
+313,Robert Catalin Franciuc,2025-06-13,2025-06-15,3,medical
+313,Robert Catalin Franciuc,2025-05-05,2025-05-06,2,medical
+313,Robert Catalin Franciuc,2025-06-14,2025-06-16,3,zi libera
+314,Bogdan Ionut Tibuleac,2025-07-27,2025-07-29,3,concediu odihna
+314,Bogdan Ionut Tibuleac,2025-05-14,2025-05-14,1,medical
+315,Alexandru Cinipa,2025-07-04,2025-07-04,1,zi libera
+316,Denis Ivan,2025-06-20,2025-06-21,2,concediu odihna
+317,Ana Stefania Serbanoiu,2025-05-28,2025-05-28,1,concediu odihna
+317,Ana Stefania Serbanoiu,2025-05-28,2025-05-30,3,concediu odihna
+318,Dragos Badarau,2025-05-25,2025-05-26,2,zi libera
+318,Dragos Badarau,2025-06-26,2025-06-27,2,medical
+318,Dragos Badarau,2025-06-20,2025-06-21,2,delegatie
+319,Robert Erno Eminovici,2025-05-30,2025-06-01,3,zi libera
