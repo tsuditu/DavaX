@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv_math_service/
+
+# SQLite database and export
+db/history.db
+requests_log.txt

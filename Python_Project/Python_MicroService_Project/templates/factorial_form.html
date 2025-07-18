@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Factorial Calculator</title>
+</head>
+<body>
+    <h1>Calculate the Factorial</h1>
+    <form action="/factorial-form" method="POST">
+        <label for="n">Insert a number:</label>
+        <input type="number" name="n" min="0" required>
+        <button type="submit">Calculate</button>
+    </form>
+
+    {% if result is not none %}
+        <h2>Result: {{ result }}</h2>
+    {% endif %}
+
+    <p><a href="/">← Back to menu</a></p>
+</body>
+</html>

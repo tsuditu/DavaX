@@ -1,0 +1,5 @@
+flask
+pydantic
+pandas
+flake8
+autopep8

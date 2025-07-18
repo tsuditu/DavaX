@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Power Calculator</title>
+</head>
+<body>
+    <h1>Calculate Power (x^y)</h1>
+    <form action="/pow-form" method="POST">
+        <label for="x">Base (x):</label>
+        <input type="number" name="x" required>
+        <label for="y">Exponent (y):</label>
+        <input type="number" name="y" required>
+        <button type="submit">Calculate</button>
+    </form>
+
+    {% if result is not none %}
+        <h2>Result: {{ result }}</h2>
+    {% endif %}
+
+    <p><a href="/">← Back to menu</a></p>
+</body>
+</html>
