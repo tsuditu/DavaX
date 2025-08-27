@@ -1,0 +1,6 @@
+openai>=1.40.0
+chromadb>=0.5.3
+pandas>=2.2.2
+click>=8.1.7
+tiktoken>=0.7.0
+-e .

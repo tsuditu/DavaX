@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+.venv/
+venv/
+venv_math_service/
+
+# SQLite database and export
+db/
+*.sqlite3
+*.db
+requests_log.txt
+chroma
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Docker
+*.log
+
+smart_librarian.egg-info
